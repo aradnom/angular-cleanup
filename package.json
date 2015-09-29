@@ -1,0 +1,17 @@
+{
+  "name": "angular-cleanup",
+  "version": "0.0.1",
+  "description": "A simple tool for finding Angular files that are not in use as well as detecting unused dependencies in directives, controllers, filters and services.",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [
+    "angular",
+    "cleanup"
+  ],
+  "author": "aradnom@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "yargs": "^3.26.0"
+  }
+}
